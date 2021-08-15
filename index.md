@@ -13,81 +13,51 @@ title: Spencer Bowles's CV
 ## Research
 
 `Summer 2021`
-### Georgia Institute of Technology
+__Georgia Institute of Technology__
 
 
 
 ## Education
 
-### Choate Rosemary Hall 
-
 `2019 - now` 
-__(Class of '22)__
+__Choate Rosemary Hall (Class of '22)__ 
 
-#### Current GPA
+### Current GPA
 __Unweighted: X.XX__ 
 __Weighted: X.XX__
 
-#### Relevant Classes
+### Relevant Classes
 (AP classes not offered)
 
-__9th Grade__
+- 9th Grade
+    - Physics Honors `All Year`
+    - PreCalculus Honors `All Year`
+    - Global Scientific Issues `Winter`
 
-`All Year`
-- Physics Honors
-- PreCalculus Honors
+- 10th Grade
+    - Chemistry Honors `All Year`
+    - Calculus BC Honors `All Year`
+    - Programming Honors `Fall and Winter`
+    - Machine Learning Honors `Spring`
 
-`Winter`
-- Global Scientific Issues
+- 11th Grade
+    - Advanced Physics Honors `All Year`
+    - Biology Honors `All Year`
+    - Linear Algebra Honors `Fall`
+    - Experimental Design Honors `Fall`
+    - Multivariable Caculus Honors `Winter and Spring`
+    - Research Seminar I Honors `Winter`
+    - Directed Study in Computational Models Honors `Winter`
+    - Protocol Development Honors `Spring`
 
-__10th Grade__
-
-`All Year`
-- Chemistry Honors
-- Calculus BC Honors
-
-`Fall and Winter`
-- Programming Honors
-
-`Spring`
-- Machine Learning Honors
-
-__11th Grade__
-
-`All Year`
-- Advanced Physics Honors
-- Biology Honors
-
-`Fall`
-- Linear Algebra Honors
-- Experimental Design Honors
-
-`Winter and Spring`
-- Multivariable Caculus Honors
-
-`Winter`
-- Research Seminar I Honors
-- Directed Study in Computational Models Honors
-
-`Spring`
-- Protocol Development Honors
-
-__12th Grade (Planned)__
-
-`All Year`
-- Modern Math Honors
-
-`Fall`
-- Inorganic Chemistry Honors
-- Research Seminar II Honors
-- Directed Study in Processor Design Honors
-
-`Winter and Spring`
-- Applied Differential Equantions Honors
-
-`Winter`
-- Advanced Organic Chemistry Honors
-- Directed Study in Programming Languages (Not Yet Approved)
+- 12th Grade (Planned)
+	- Modern Math Honors `All Year`
+	- Inorganic Chemistry Honors `Fall`
+	- Research Seminar II Honors `Fall`
+	- Directed Study in Processor Design Honors `Fall`
+    - Applied Differential Equantions Honors `Winter and Spring`
+    - Advanced Organic Chemistry Honors `Winter`
+    - Directed Study in Programming Languages (Not Yet Approved) `Winter`
 
 `Summer 2020`
 __Worcester Polytechnic Institute__
