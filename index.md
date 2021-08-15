@@ -13,18 +13,20 @@ title: Spencer Bowles's CV
 ## Research
 
 `Summer 2021`
-__Georgia Institute of Technology__
+### Georgia Institute of Technology
 
 
 
 ## Education
 
-`2019 - now`
-### Choate Rosemary Hall (Class of '22)
+### Choate Rosemary Hall 
 
-#### GPA
-- Unweighted: X.XX 
-- Weighted: X.XX 
+`2019 - now` 
+__(Class of '22)__
+
+#### Current GPA
+__Unweighted: X.XX__ 
+__Weighted: X.XX__
 
 #### Relevant Classes
 (AP classes not offered)
