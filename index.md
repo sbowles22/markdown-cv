@@ -20,54 +20,69 @@ __Georgia Institute of Technology__
 ## Education
 
 `2019 - now`
-__Choate Rosemary Hall (Class of '22)__
+### Choate Rosemary Hall (Class of '22)
 
-- Unweighted GPA: X.XX 
-- Weighted GPA: X.XX 
+#### GPA
+- Unweighted: X.XX 
+- Weighted: X.XX 
 
-### Relevant Classes
+#### Relevant Classes
 (AP classes not offered)
 
 __9th Grade__
+
 `All Year`
 - Physics Honors
 - PreCalculus Honors
+
 `Winter`
 - Global Scientific Issues
 
 __10th Grade__
+
 `All Year`
 - Chemistry Honors
 - Calculus BC Honors
+
 `Fall and Winter`
 - Programming Honors
+
 `Spring`
 - Machine Learning Honors
 
 __11th Grade__
+
 `All Year`
 - Advanced Physics Honors
 - Biology Honors
+
 `Fall`
 - Linear Algebra Honors
 - Experimental Design Honors
+
 `Winter and Spring`
 - Multivariable Caculus Honors
+
 `Winter`
 - Research Seminar I Honors
 - Directed Study in Computational Models Honors
+
 `Spring`
 - Protocol Development Honors
 
 __12th Grade (Planned)__
+
 `All Year`
 - Modern Math Honors
+
 `Fall`
 - Inorganic Chemistry Honors
 - Research Seminar II Honors
 - Directed Study in Processor Design Honors
+
 `Winter and Spring`
 - Applied Differential Equantions Honors
+
 `Winter`
 - Advanced Organic Chemistry Honors
 - Directed Study in Programming Languages (Not Yet Approved)
