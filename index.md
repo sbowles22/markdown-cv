@@ -15,7 +15,11 @@ title: Spencer Bowles's CV
 `Summer 2021`
 __Georgia Institute of Technology__
 
+Worked as an affiliate to the CRNCH lab where I helped implement and test the LASSO onto various digital and mixed signal architectures. 
 
+### Research Advisor
+
+Dr. Jeffery Young 
 
 ## Education
 
@@ -23,8 +27,8 @@ __Georgia Institute of Technology__
 __Choate Rosemary Hall (Class of '22)__ 
 
 ### Current GPA
-__Unweighted: X.XX__ 
-__Weighted: X.XX__
+__Unweighted: 3.78__ 
+__Weighted: 4.16__ (+0.25 for Advanced, +0.5 for Honors)
 
 ### Relevant Classes
 (AP classes not offered)
@@ -45,7 +49,7 @@ __Weighted: X.XX__
     - Biology Honors `All Year`
     - Linear Algebra Honors `Fall`
     - Experimental Design Honors `Fall`
-    - Multivariable Caculus Honors `Winter and Spring`
+    - Multivariable Calculus Honors `Winter and Spring`
     - Research Seminar I Honors `Winter`
     - Directed Study in Computational Models Honors `Winter`
     - Protocol Development Honors `Spring`
@@ -55,7 +59,7 @@ __Weighted: X.XX__
 	- Inorganic Chemistry Honors `Fall`
 	- Research Seminar II Honors `Fall`
 	- Directed Study in Processor Design Honors `Fall`
-    - Applied Differential Equantions Honors `Winter and Spring`
+    - Applied Differential Equations Honors `Winter and Spring`
     - Advanced Organic Chemistry Honors `Winter`
     - Directed Study in Programming Languages (Not Yet Approved) `Winter`
 
@@ -63,40 +67,19 @@ __Weighted: X.XX__
 __Worcester Polytechnic Institute__
 - Advanced Digital Systems Design with FPGAs
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Languages Known
+(In order of familiarity)
+- Python
+- Rust
+- Verilog
+- C++
+- C#
+- Java
+- HTML/CSS/JS
+- x86-64 Assembly
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2021 -->
 
