@@ -22,7 +22,6 @@ Worked as an affiliate to the CRNCH lab where I helped implement and test the LA
 Dr. Jeffery Young 
 
 ---
-
 ## Education
 
 `2019 - now` 
@@ -70,7 +69,6 @@ __Worcester Polytechnic Institute__
 - Advanced Digital Systems Design with FPGAs
 
 ---
-
 ## Languages Known
 (In order of familiarity)
 - Python
@@ -83,7 +81,5 @@ __Worcester Polytechnic Institute__
 - x86-64 Assembly
 
 
-<!-- ### Footer
-
-Last updated: August 2021 -->
+<!-- Last updated: August 2021 -->
 
