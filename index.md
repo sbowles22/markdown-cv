@@ -27,8 +27,10 @@ Dr. Jeffery Young
 __Choate Rosemary Hall (Class of '22)__ 
 
 ### Current GPA
-__Unweighted: 3.78__ 
-__Weighted: 4.16__ (+0.25 for Advanced, +0.5 for Honors)
+- __Unweighted: 3.78__ 
+- __Weighted: 4.16__ (+0.25 for Advanced, +0.5 for Honors)
+
+---
 
 ### Relevant Classes
 (AP classes not offered)
@@ -66,6 +68,8 @@ __Weighted: 4.16__ (+0.25 for Advanced, +0.5 for Honors)
 `Summer 2020`
 __Worcester Polytechnic Institute__
 - Advanced Digital Systems Design with FPGAs
+
+---
 
 ## Languages Known
 (In order of familiarity)
