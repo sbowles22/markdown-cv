@@ -69,6 +69,15 @@ __Worcester Polytechnic Institute__
 - Advanced Digital Systems Design with FPGAs
 
 ---
+## Competitions
+
+`October 2019`
+__picoCTF__ 29th place
+
+`March 2021`
+__picoCTF__ 33rd place
+
+---
 ## Languages Known
 (In order of familiarity)
 - Python
@@ -80,6 +89,23 @@ __Worcester Polytechnic Institute__
 - HTML/CSS/JS
 - x86-64 Assembly
 
+---
+## Extracarriculars
+
+- __Sports__:
+    - Football (Varsity) `2018-2019`
+    - Wresting (Varsity) `2018-2022`
+    - Track and Feild (Varsity) `2019-2022`
+
+- __Clubs / Leadership__:
+    - Choate Programming Union (President) `2018-2022`
+    - Choate Young Republicans (Vice-President) `2018-2022`
+    - Choate Quiz Bowl (Head Statistician) `2020-2022`
+    - Choate Young Economists `2018-2022`
+    - Choate Young Libertarians `2019-2022`
+    - Debate Club `2018-2021`
+    - Robotics Club `2018-2019`
+    - Adaptive Swim and Skate `2018-2019`
 
 <!-- Last updated: August 2021 -->
 
