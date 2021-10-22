@@ -15,7 +15,7 @@ title: Spencer Bowles's CV
 `Summer 2021`
 __Georgia Institute of Technology__
 
-Worked as an affiliate to the CRNCH lab where I helped implement and test the LASSO onto various digital and mixed signal architectures. 
+Worked as an affiliate to the CRNCH lab where I helped implement the least absolute shrinkage and selection operator (LASSO) as a decoder to a spiking neural network onto various digital and mixed signal architectures. Attended the Telluride Neuromorphic Cognition Engineering Workshop virtually. Mostly, we investigated the FPAA and Braindrop architectures, using the RASP toolchain for the former (albeit we ran into issues with RASP) and Nengo for the latter. 
 
 ### Research Advisor
 
@@ -60,19 +60,30 @@ __Choate Rosemary Hall (Class of '22)__
 	- Inorganic Chemistry Honors `Fall`
 	- Research Seminar II Honors `Fall`
 	- Directed Study in Processor Design Honors `Fall`
-    - Applied Differential Equations Honors `Winter and Spring`
-    - Advanced Organic Chemistry Honors `Winter`
-    - Directed Study in Programming Languages (Not Yet Approved) `Winter`
+  - Applied Differential Equations Honors `Winter and Spring`
+  - Advanced Organic Chemistry Honors `Winter`
+  - Directed Study in Dynamical Systems (Not Yet Approved) `Winter`
 
 `Summer 2020`
 __Worcester Polytechnic Institute__
+
 - Advanced Digital Systems Design with FPGAs
 
 ---
+## Competitions
+
+`October 2019`
+__picoCTF__ 29th place
+
+`March 2021`
+__picoCTF__ 33rd place
+
+---
 ## Languages Known
-(In order of familiarity)
+(Roughly in order of familiarity)
 - Python
 - Rust
+- Lucid
 - Verilog
 - C++
 - C#
@@ -80,6 +91,23 @@ __Worcester Polytechnic Institute__
 - HTML/CSS/JS
 - x86-64 Assembly
 
+---
+## Extracarriculars
 
-<!-- Last updated: August 2021 -->
+- __Sports__:
+    - Football (Varsity) `2018-2019`
+    - Wresting (Varsity) `2018-2022`
+    - Track and Field (Varsity) `2019-2022`
+
+- __Clubs / Leadership__:
+    - Choate Programming Union (President) `2018-2022`
+    - Choate Young Republicans (Vice-President) `2018-2022`
+    - Choate Quiz Bowl (Head Statistician / Assistant Tournament Director) `2020-2022`
+    - Choate Young Economists `2018-2022`
+    - Choate Young Libertarians `2019-2022`
+    - Debate Club `2018-2021`
+    - Robotics Club `2018-2019`
+    - Adaptive Swim and Skate `2018-2019`
+
+<!-- Last updated: October 2021 -->
 
