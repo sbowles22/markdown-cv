@@ -60,9 +60,9 @@ __Choate Rosemary Hall (Class of '22)__
 	- Inorganic Chemistry Honors `Fall`
 	- Research Seminar II Honors `Fall`
 	- Directed Study in Processor Design Honors `Fall`
-  - Applied Differential Equations Honors `Winter and Spring`
-  - Advanced Organic Chemistry Honors `Winter`
-  - Directed Study in Dynamical Systems (Not Yet Approved) `Winter`
+    - Applied Differential Equations Honors `Winter and Spring`
+    - Advanced Organic Chemistry Honors `Winter`
+    - Cognitive Neuroscience `Winter`
 
 `Summer 2020`
 __Worcester Polytechnic Institute__
@@ -78,6 +78,9 @@ __picoCTF__ 29th place
 `March 2021`
 __picoCTF__ 33rd place
 
+`December 2020`
+__USACO__ Silver Leauge
+
 ---
 ## Languages Known
 (Roughly in order of familiarity)
@@ -85,25 +88,25 @@ __picoCTF__ 33rd place
 - Rust
 - Lucid
 - Verilog
-- C++
 - C#
+- C++
 - Java
+- Assembly
 - HTML/CSS/JS
-- x86-64 Assembly
 
 ---
-## Extracarriculars
+## Extracurriculars
 
 - __Sports__:
+    - Wresting (Captain) `2018-2022`
     - Football (Varsity) `2018-2019`
-    - Wresting (Varsity) `2018-2022`
     - Track and Field (Varsity) `2019-2022`
 
 - __Clubs / Leadership__:
     - Choate Programming Union (President) `2018-2022`
     - Choate Young Republicans (Vice-President) `2018-2022`
     - Choate Quiz Bowl (Head Statistician / Assistant Tournament Director) `2020-2022`
-    - Choate Young Economists `2018-2022`
+    - Choate Young Economists `2018-2021`
     - Choate Young Libertarians `2019-2022`
     - Debate Club `2018-2021`
     - Robotics Club `2018-2019`
