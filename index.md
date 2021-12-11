@@ -109,5 +109,4 @@ __picoCTF__ 33rd place
     - Robotics Club `2018-2019`
     - Adaptive Swim and Skate `2018-2019`
 
-<!-- Last updated: August 2021 -->
-
+<!-- Last updated: December 2021 -->
